@@ -18,7 +18,7 @@ const socialList = [
     label: 'GitHub: YunYouJun',
     href: 'https://github.com/YunYouJun',
   },
-  {
+  /*{
     type: 'telegram',
     color: '#1da1f2',
     icon: IconTelegram,
@@ -52,7 +52,7 @@ const socialList = [
     icon: IconEarth,
     label: '博客：yunyoujun.cn',
     href: 'http://www.yunyoujun.cn',
-  },
+  },*/
 ]
 
 export const Copyright: React.FC = () => {
@@ -72,7 +72,7 @@ export const Copyright: React.FC = () => {
         </IconButton>
         &nbsp;
         <a href={pkg.author.url} target="_blank" rel="noreferrer">
-          云游君 @{pkg.author.name}
+          Casual @{pkg.author.name}
         </a>
       </p>
       <p className="text-center text-xs">
