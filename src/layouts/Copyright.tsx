@@ -15,7 +15,7 @@ const socialList = [
     type: 'github',
     color: 'inherit',
     icon: IconGithub,
-    label: 'GitHub: YunYouJun',
+    label: 'GitHub: Casual',
     href: 'https://github.com/YunYouJun',
   },
   /*{
