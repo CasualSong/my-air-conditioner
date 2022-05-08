@@ -4,9 +4,9 @@
   "version": "0.1.3",
   "private": true,
   "author": {
-    "url": "https://www.yunyoujun.cn",
-    "email": "me@yunyoujun.cn",
-    "name": "YunYouJun"
+    "url": "air.brantb.xyz",
+    "email": "me@air.brantb.xyz",
+    "name": "Casual"
   },
   "scripts": {
     "dev": "vite",
