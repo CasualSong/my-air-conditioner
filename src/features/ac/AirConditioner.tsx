@@ -229,6 +229,7 @@ const EnergyLabel: React.FC<{ titleLength: number }> = () => {
     </Box>
   )
 }
+
 /**
  * 节能产品惠民工程
  */
@@ -236,7 +237,7 @@ function EnergySavingLabel() {
   return (
     <a
       className="adsense-link"
-      href="https://air.btantb.xyz"
+      href="https://sponsors.yunyoujun.cn"
       target="_blank" rel="noreferrer"
     >
       <div className="energy-saving-label">
@@ -266,6 +267,7 @@ function EnergySavingLabel() {
     </a>
   )
 }
+
 /**
  * 风特效
  * @param props
