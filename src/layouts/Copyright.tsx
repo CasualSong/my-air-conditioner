@@ -11,14 +11,14 @@ import IconEarth from '~icons/mdi/earth'
 import IconCloud from '~icons/mdi/cloud'
 
 const socialList = [
-  {
+  /*{
     type: 'github',
     color: 'inherit',
     icon: IconGithub,
     label: 'GitHub: Casual',
     href: 'https://github.com/YunYouJun',
   },
-  /*{
+  {
     type: 'telegram',
     color: '#1da1f2',
     icon: IconTelegram,
