@@ -4,7 +4,7 @@
   "version": "0.1.3",
   "private": true,
   "author": {
-    "url": "air.brantb.xyz",
+    "url": "https://air.brantb.xyz",
     "email": "me@air.brantb.xyz",
     "name": "Casual"
   },
@@ -31,7 +31,7 @@
     "type": "git",
     "url": "https://github.com/YunYouJun/air-conditioner"
   },
-  "homepage": "https://ac.yunyoujun.cn/",
+  "homepage": "https://air.brantb.xyz",
   "dependencies": {
     "@emotion/react": "^11.5.0",
     "@emotion/styled": "^11.3.0",
