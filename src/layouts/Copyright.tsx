@@ -61,7 +61,7 @@ export const Copyright: React.FC = () => {
       <p className="text-center text-xs">
         {'© '}
         <a href={pkg.repository.url} target="_blank" rel="noreferrer">
-          Yun Air Conditioner
+          Air Conditioner
         </a>
         <IconButton
           sx={{ color: '#0078e7' }}
