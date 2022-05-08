@@ -231,44 +231,6 @@ const EnergyLabel: React.FC<{ titleLength: number }> = () => {
 }
 
 /**
- * 节能产品惠民工程
- */
-function EnergySavingLabel() {
-  return (
-//     <a
-//       className="adsense-link"
-//       href="https://sponsors.yunyoujun.cn"
-//       target="_blank" rel="noreferrer"
-//     >
-//       <div className="energy-saving-label">
-//         <div className="energy-saving-label_bg">
-//           <span className="energy-saving-label_title">
-//             节能产品&nbsp;&nbsp;惠民工程
-//           </span>
-//           {/* <img
-//             className="adsense-logo"
-//             src="/images/ximalaya-logo.png"
-//             alt="夏日清凉"
-//           /> */}
-//           <span className="adsense-logo" title="夏日清凉">
-//             💰
-//           </span>
-//           <span className="energy-saving-label_description">
-//             推广上限价格：XXXX 元
-//           </span>
-//           <span className="energy-saving-label_description">
-//             政府补助金额：XXXX 元
-//           </span>
-//           <span className="energy-saving-label_description">
-//             补助上限价格：XXXX 元
-//           </span>
-//         </div>
-//       </div>
-//     </a>
-  )
-}
-
-/**
  * 风特效
  * @param props
  */
