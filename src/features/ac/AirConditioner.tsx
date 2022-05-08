@@ -237,7 +237,7 @@ function EnergySavingLabel() {
   return (
     <a
       className="adsense-link"
-      href="https://brantb.xyz"
+      href="https://air.brantb.xyz"
       target="_blank" rel="noreferrer"
     >
       <div className="energy-saving-label">
